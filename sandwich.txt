@@ -1,0 +1,11 @@
+1/10/19
+
+Algorithm for making a PB&J sandwich.
+- Import: Bread, butter knife, peanut butter, jelly, and cutting board.
+
+- Get two (2) slices of bread. Preferably of the same type and thickness. Lay them side by side.
+- Unscrew the lid on the peanut butter and, using the knife, scoop about a teaspoon of peanut butter out.
+- Spread it onto one of the faces of the pieces of bread evenly. Close peanut butter jar.
+- Unscrew the lid on the jelly and, using the knife, scoop about a teaspoon of jelly out.
+- Spread it onto the other piece of bread (the one without the peanut butter) evenly. Close jelly jar.
+- Assemble the sandwich such that the faces with the peanut butter and jelly touch.
