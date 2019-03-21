@@ -4,7 +4,8 @@ Created on Mon Feb 25 20:36:58 2019
 
 @author: Alex
 """
-""" PART A """
+""" PART A: Given an input array of two digit integers (of any length), output True if the first and
+the last numbers have the same digits at the tens place (otherwise output false). """
 
 def Tens_swap(array):
     first = (array[0])//10
@@ -21,7 +22,8 @@ Tens_swap([32, 45, 23])
 Tens_swap([76,89,23,45,10,70])
 
 
-""" PART B """
+""" PART B: Output a new array (list) that has the last element as the
+average of the elements of the original array. """
 
 def Average_add(array):
     array.append(sum(array)//len(array))
