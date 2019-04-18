@@ -6,5 +6,6 @@ Code for exercises in the CSCI 1010 course.
 - **Homework 9: Set Operations**
 
 ## In-Class Assignments
-- **In Class Exercise 8: Text file parsing, Set operations**
-
+- **8: Text file parsing, Set operations**
+- **9: Using dictionaries to track inventory**
+- **10: Given a string, find if it's a permutation of a palindrome.**
