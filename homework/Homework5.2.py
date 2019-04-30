@@ -17,9 +17,9 @@ def Tens_swap(array):
         return False
     
 #Test cases.  
-Tens_swap([21,12,45,67,29])
-Tens_swap([32, 45, 23])
-Tens_swap([76,89,23,45,10,70])
+Tens_swap([21,12,45,67,29])         #True
+Tens_swap([32, 45, 23])             #False
+Tens_swap([76,89,23,45,10,70])      #True
 
 
 """ PART B: Output a new array (list) that has the last element as the
